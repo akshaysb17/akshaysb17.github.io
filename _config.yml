@@ -1,5 +1,6 @@
 # The Site Configuration
 
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -14,7 +15,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Akshay bharambe # the main title
+title: Akshay Bharambe # the main title
 
 tagline: Sr. DevOps Engineer # it will display as the sub-title
 
